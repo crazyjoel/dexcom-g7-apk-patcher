@@ -98,6 +98,7 @@ Please note that there is also an alternative approach with XDrip+ as middleware
 
 ### Server Error on disclaimer page
 
+
 Some users are facing a prominent `Server error` popup in the disclaimer step which prevents them to pass:
 
 <img src="images/disclaimer-error.png" width="300" />
